@@ -1,0 +1,27 @@
+name: gt_textfield
+description: A comprehensive Flutter text field package with MasterTextField (advanced TextField/TextFormField wrapper) and SuggestionTextField with autocomplete and search history.
+version: 1.0.0
+homepage: https://github.com/user/gt_textfield
+repository: https://github.com/user/gt_textfield
+issue_tracker: https://github.com/user/gt_textfield/issues
+
+topics:
+  - textfield
+  - input
+  - autocomplete
+  - form
+  - widgets
+
+environment:
+  sdk: ^3.9.2
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
